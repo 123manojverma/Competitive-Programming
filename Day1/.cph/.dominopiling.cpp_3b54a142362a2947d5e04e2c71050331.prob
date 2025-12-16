@@ -1,0 +1,1 @@
+{"name":"Local: dominopiling","url":"f:\\Cohort 3\\Codeforces\\Day1\\dominopiling.cpp","tests":[{"id":1765919445578,"input":"2 4\n","output":"4\n"},{"id":1765919462591,"input":"3 3\n","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Cohort 3\\Codeforces\\Day1\\dominopiling.cpp","group":"local","local":true}
