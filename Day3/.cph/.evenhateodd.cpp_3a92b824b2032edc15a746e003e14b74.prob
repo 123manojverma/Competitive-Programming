@@ -1,0 +1,1 @@
+{"name":"Local: evenhateodd","url":"f:\\Codes\\CP\\Day3\\evenhateodd.cpp","tests":[{"id":1766095451730,"input":"3\n4\n1 2 3 4\n4\n1 1 1 1\n3\n1 2 3\n","output":"0\n2\n-1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Codes\\CP\\Day3\\evenhateodd.cpp","group":"local","local":true}

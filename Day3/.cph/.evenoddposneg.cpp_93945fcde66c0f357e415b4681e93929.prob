@@ -1,0 +1,1 @@
+{"name":"Local: evenoddposneg","url":"f:\\Codes\\CP\\Day3\\evenoddposneg.cpp","tests":[{"id":1766093545627,"input":"5\n-5 0 -3 -4 12\n","output":"Even: 3\nOdd: 2\nPositive: 1\nNegative: 3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Codes\\CP\\Day3\\evenoddposneg.cpp","group":"local","local":true}
