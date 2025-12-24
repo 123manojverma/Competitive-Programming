@@ -1,0 +1,1 @@
+{"name":"Local: fairplayoff","url":"f:\\Codes\\CP\\Competitive-Programming\\Day6\\fairplayoff.cpp","tests":[{"id":1766578149298,"input":"4\n3 7 9 5\n4 5 6 9\n5 3 8 1\n6 5 3 2\n","output":"YES\nNO\nYES\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Codes\\CP\\Competitive-Programming\\Day6\\fairplayoff.cpp","group":"local","local":true}
