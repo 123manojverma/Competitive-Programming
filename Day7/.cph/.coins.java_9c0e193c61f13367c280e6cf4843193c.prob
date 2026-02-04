@@ -1,0 +1,1 @@
+{"name":"Local: coins","url":"f:\\Codes\\CP\\Competitive-Programming\\Day7\\coins.java","tests":[{"id":1770228798470,"input":"4\n5 3\n6 1\n7 4\n8 8\n","output":"YES\nYES\nNO\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Codes\\CP\\Competitive-Programming\\Day7\\coins.java","group":"local","local":true}
