@@ -1,0 +1,1 @@
+{"name":"Local: game01","url":"f:\\Codes\\CP\\Competitive-Programming\\Day12\\game01.java","tests":[{"id":1772219977259,"input":"3\n01\n1111\n0011\n","output":"DA\nNET\nNET\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Codes\\CP\\Competitive-Programming\\Day12\\game01.java","group":"local","local":true}
