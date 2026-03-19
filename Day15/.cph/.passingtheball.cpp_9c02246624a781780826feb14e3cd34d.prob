@@ -1,0 +1,1 @@
+{"name":"Local: passingtheball","url":"f:\\Codes\\CP\\Competitive-Programming\\Day15\\passingtheball.cpp","tests":[{"id":1773940135897,"input":"3\n4\nRLRL\n6\nRRRRRL\n9\nRRLRRRRRL\n","output":"2\n6\n3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Codes\\CP\\Competitive-Programming\\Day15\\passingtheball.cpp","group":"local","local":true}
