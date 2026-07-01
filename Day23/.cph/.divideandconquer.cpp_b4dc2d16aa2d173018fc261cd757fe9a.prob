@@ -1,0 +1,1 @@
+{"name":"Local: divideandconquer","url":"f:\\Codes\\CP\\Competitive-Programming\\Day23\\divideandconquer.cpp","tests":[{"id":1782831874104,"input":"3\n12 2\n6 7\n99 79\n","output":"YES\nNO\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Codes\\CP\\Competitive-Programming\\Day23\\divideandconquer.cpp","group":"local","local":true}
