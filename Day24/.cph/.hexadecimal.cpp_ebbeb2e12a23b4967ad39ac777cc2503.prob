@@ -1,0 +1,1 @@
+{"name":"Local: hexadecimal","url":"f:\\Codes\\CP\\Competitive-Programming\\Day24\\hexadecimal.cpp","tests":[{"id":1783165510834,"input":"3\n","output":"1 1 1"},{"id":1783165523065,"input":"13\n","output":"2 3 8\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Codes\\CP\\Competitive-Programming\\Day24\\hexadecimal.cpp","group":"local","local":true}
