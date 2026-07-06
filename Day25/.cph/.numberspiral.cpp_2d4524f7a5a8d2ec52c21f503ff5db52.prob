@@ -1,0 +1,1 @@
+{"name":"Local: numberspiral","url":"f:\\Codes\\CP\\Competitive-Programming\\Day25\\numberspiral.cpp","tests":[{"id":1783275652165,"input":"3\n2 3\n1 1\n4 2","output":"8\n1\n15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Codes\\CP\\Competitive-Programming\\Day25\\numberspiral.cpp","group":"local","local":true}
