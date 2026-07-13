@@ -1,0 +1,1 @@
+{"name":"Local: MODEX","url":"f:\\Codes\\CP\\Competitive-Programming\\Binary Exponentiation\\MODEX.cpp","tests":[{"id":1783948770632,"input":"2\n2 3 5\n2 2147483647 13","output":"3\n11"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Codes\\CP\\Competitive-Programming\\Binary Exponentiation\\MODEX.cpp","group":"local","local":true}
