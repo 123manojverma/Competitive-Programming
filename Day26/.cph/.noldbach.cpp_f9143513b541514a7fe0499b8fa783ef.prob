@@ -1,0 +1,1 @@
+{"name":"Local: noldbach","url":"f:\\Codes\\CP\\Competitive-Programming\\Day26\\noldbach.cpp","tests":[{"id":1784560131887,"input":"27 2\n","output":"YES"},{"id":1784560142566,"input":"45 7\n","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Codes\\CP\\Competitive-Programming\\Day26\\noldbach.cpp","group":"local","local":true}
