@@ -1,0 +1,1 @@
+{"name":"Local: strongelements","url":"f:\\Codes\\CP\\Competitive-Programming\\Day29\\strongelements.cpp","tests":[{"id":1785753532901,"input":"3\n3\n5 10 20\n4\n3 5 7 11\n4\n2 2 2 2","output":"3\n0\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Codes\\CP\\Competitive-Programming\\Day29\\strongelements.cpp","group":"local","local":true}
