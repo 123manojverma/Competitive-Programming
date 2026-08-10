@@ -43,7 +43,7 @@ int main(){
             long long cnt=hm[nums[i-1]];
             if(val%cnt==0){
                 long long total=val/cnt;
-                if(maxi>total){
+                if(maxi>=total){
                     flag=false;
                     break;
                 }else{
