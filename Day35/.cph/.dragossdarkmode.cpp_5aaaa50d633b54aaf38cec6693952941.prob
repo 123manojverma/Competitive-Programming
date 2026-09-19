@@ -1,0 +1,1 @@
+{"name":"Local: dragossdarkmode","url":"f:\\Codes\\CP\\Competitive-Programming\\Day35\\dragossdarkmode.cpp","tests":[{"id":1789653629997,"input":"6\n1\n2\n3\n4\n5\n6\n","output":"1\n01\n101\n1010\n10101\n010100"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Codes\\CP\\Competitive-Programming\\Day35\\dragossdarkmode.cpp","group":"local","local":true}
