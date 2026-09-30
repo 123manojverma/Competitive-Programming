@@ -1,0 +1,1 @@
+{"name":"Local: sausagebank","url":"f:\\Codes\\CP\\Competitive-Programming\\Day37\\sausagebank.cpp","tests":[{"id":1790604837166,"input":"5\n1 1\n2 1\n4 3\n5 5\n10 2\n","output":"2\n4\n8\n10\n514\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Codes\\CP\\Competitive-Programming\\Day37\\sausagebank.cpp","group":"local","local":true}

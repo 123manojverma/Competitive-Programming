@@ -1,0 +1,1 @@
+{"name":"Local: maximumtotalsum","url":"f:\\Codes\\CP\\Competitive-Programming\\Day37\\maximumtotalsum.cpp","tests":[{"id":1790421229670,"input":"9\n-4 0 2 5 0 100 -100 -20 12","output":"219"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Codes\\CP\\Competitive-Programming\\Day37\\maximumtotalsum.cpp","group":"local","local":true}
