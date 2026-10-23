@@ -1,0 +1,1 @@
+{"name":"Local: perfectsandwiches","url":"f:\\Codes\\CP\\Competitive-Programming\\Day40\\perfectsandwiches.cpp","tests":[{"id":1792340328354,"input":"3\n6 4\n200 100\n4 5\n","output":"2\n100\n-1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Codes\\CP\\Competitive-Programming\\Day40\\perfectsandwiches.cpp","group":"local","local":true}
