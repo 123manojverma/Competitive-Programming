@@ -1,0 +1,1 @@
+{"name":"Local: frogsjump","url":"f:\\Codes\\CP\\Competitive-Programming\\Day41\\frogsjump.cpp","tests":[{"id":1793093789184,"input":"4\n2\nff\noo\n2\nfo\nof\n3\nfof\nofo\n1\nf\no\n","output":"0\n0\n1\n1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Codes\\CP\\Competitive-Programming\\Day41\\frogsjump.cpp","group":"local","local":true}
